@@ -1,3 +1,4 @@
 1. Menambahkan code program hari rabu
 2. Menambahkan code program hari kamis
 3. Menambahkan code program hari jumat
+4. Menambahkan code program hari sabtu
